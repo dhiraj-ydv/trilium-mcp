@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "trilium-mcp": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\dhira\\Documents\\CODE\\trilium-mcp\\server.py"
+      ]
+    }
+  }
+}
